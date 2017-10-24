@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 1"
+title: "Bacterial whole genome-based phylogeny: Construction of a new benchmarking dataset and assessment of some existing methods"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
+permalink: /publication/ahrenfeldt17.pdf
+excerpt: 'A WGS dataset of E. coli with know phylogeny, and the benchmarkstudy that followed'
+date: 2017-01-01
 venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+paperurl: 'http://ahrenfeldt.github.io/files/Ahrenfeldt_et_al_2017.pdf'
+citation: 'Ahrenfeldt, J. (2017). &quot;Bacterial whole genome-based phylogeny: Construction of a new benchmarking dataset and assessment of some existing methods.&quot; <i>BMC Genomics</i>. 1(1).'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+Whole genome sequencing (WGS) is increasingly used in diagnostics and surveillance of infectious diseases. A major application for WGS is to use the data for identifying outbreak clusters, and there is therefore a need for methods that can accurately and efficiently infer phylogenies from sequencing reads. In the present study we describe a new dataset that we have created for the purpose of benchmarking such WGS-based methods for epidemiological data, and also present an analysis where we use the data to compare the performance of some current methods
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](http://academicpages.github.io/files/Ahrenfeldt_et_al_2017.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Ahrenfeldt, J. (2017). "Bacterial whole genome-based phylogeny: Construction of a new benchmarking dataset and assessment of some existing methods." <i>BMC Genomics</i>. 1(1).
