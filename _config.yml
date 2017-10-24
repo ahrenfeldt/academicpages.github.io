@@ -79,7 +79,7 @@ analytics:
 # Site Author
 author:
   name             : "Johanne Ahrenfeldt"
-  avatar           : "images/profilepic.jpg"
+  avatar           : "profilepic.png"
   bio              : "PhD student at DTU Bioinformatics. WGS Phylogeny and outbreak detection of infectious diseases"
   location         : "Copenhagen"
   employer         :
