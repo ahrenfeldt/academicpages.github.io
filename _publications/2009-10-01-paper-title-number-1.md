@@ -1,15 +1,15 @@
 ---
-title: "Bacterial whole genome-based phylogeny: Construction of a new benchmarking dataset and assessment of some existing methods"
+title: "A Bacterial Analysis Platform: An Integrated System for Analysing Bacterial Whole Genome Sequencing Data for Clinical Diagnostics and Surveillance"
 collection: publications
-permalink: /publication/ahrenfeldt17.pdf
-excerpt: 'A WGS dataset of E. coli with know phylogeny, and the benchmarkstudy that followed'
-date: 2017-01-01
-venue: 'Journal 1'
-paperurl: 'http://ahrenfeldt.github.io/files/Ahrenfeldt_et_al_2017.pdf'
-citation: 'Ahrenfeldt, J. (2017). &quot;Bacterial whole genome-based phylogeny: Construction of a new benchmarking dataset and assessment of some existing methods.&quot; <i>BMC Genomics</i>. 1(1).'
+permalink: /publication/bappaper
+excerpt: 'Based on previously published and already available web-based tools we developed a single pipeline for batch uploading of whole genome sequencing data from multiple bacterial isolates. The pipeline will automatically identify the bacterial species and, if applicable, assemble the genome, identify the multilocus sequence type, plasmids, virulence genes and antimicrobial resistance genes.'
+date: 2016-21-06
+venue: 'PLoS ONE'
+paperurl: 'http://ahrenfeldt.github.io/files/bappaper.pdf'
+citation: 'Ahrenfeldt, J. (2017). &quot;A Bacterial Analysis Platform: An Integrated System for Analysing Bacterial Whole Genome Sequencing Data for Clinical Diagnostics and Surveillance.&quot; <i>PLoS ONE</i>. 1(1).'
 ---
-Whole genome sequencing (WGS) is increasingly used in diagnostics and surveillance of infectious diseases. A major application for WGS is to use the data for identifying outbreak clusters, and there is therefore a need for methods that can accurately and efficiently infer phylogenies from sequencing reads. In the present study we describe a new dataset that we have created for the purpose of benchmarking such WGS-based methods for epidemiological data, and also present an analysis where we use the data to compare the performance of some current methods
+Based on previously published and already available web-based tools we developed a single pipeline for batch uploading of whole genome sequencing data from multiple bacterial isolates. The pipeline will automatically identify the bacterial species and, if applicable, assemble the genome, identify the multilocus sequence type, plasmids, virulence genes and antimicrobial resistance genes.
 
-[Download paper here](http://academicpages.github.io/files/Ahrenfeldt_et_al_2017.pdf)
+[Download paper here](http://ahrenfeldt.github.io/files/bappaper.pdf)
 
-Recommended citation: Ahrenfeldt, J. (2017). "Bacterial whole genome-based phylogeny: Construction of a new benchmarking dataset and assessment of some existing methods." <i>BMC Genomics</i>. 1(1).
+Recommended citation: Ahrenfeldt, J. (2017). "A Bacterial Analysis Platform: An Integrated System for Analysing Bacterial Whole Genome Sequencing Data for Clinical Diagnostics and Surveillance." <i>PLoS ONE</i>. 1(1).
