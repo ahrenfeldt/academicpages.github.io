@@ -83,7 +83,7 @@ author:
   bio              : "PhD student at DTU Bioinformatics. WGS Phylogeny and outbreak detection of infectious diseases"
   location         : "Copenhagen"
   employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : "jabioinformatics.dtu.dk"
   uri              :
   bitbucket        :
