@@ -11,21 +11,24 @@ redirect_from:
 
 Education
 ======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
+* B.Sc.Eng in Biotechnology, Technical University of Denmark, 2011
+* M.Sc.Eng in Systems Biology and Bioinformatics, Technical University of Denmark, 2014
+* Ph.D in Bioinformatics, Technical University of Denmark, 2018 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2014: Research Assistant
+  * Center for Genomic Epidemiology, Technical University of Denmark
+  * Supervisor: Professor Ole Lund
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2012-2014: Student Assistant
+  * Center for Genomic Epidemiology, Technical University of Denmark
+  * Duties included: System administration of online web tools. Creating a replicate of our services on a laptop in Moshi Tanzania
+  * Supervisor: Professor Ole Lund and Associate professor Mette Voldby Larsen
+  
+* 2011-2013: Student Assistant
+  * Novozymes
+
   
 Skills
 ======
@@ -56,4 +59,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Supervisor for four master thesis students
