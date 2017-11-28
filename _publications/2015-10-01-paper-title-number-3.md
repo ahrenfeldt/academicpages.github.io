@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 3"
+title: "Benchtop Whole-Genome Sequencing for Identification of Nosocomial Outbreaks in Tanzania"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+permalink: /publication/Tanzania
+excerpt: 'Benchtop Whole-Genome Sequencing for Identification of Nosocomial Outbreaks in Tanzania'
+date: May 2016
+venue: 'Infection Control & Hospital Epidemiology'
+paperurl: 'http://academicpages.github.io/files/Tanzania.pdf'
+citation: 'Sonda, T. (2016). &quot;Benchtop Whole-Genome Sequencing for Identification of Nosocomial Outbreaks in Tanzania.&quot; <i>Infection Control & Hospital Epidemiology</i>. 37(5).'
 ---
-This paper is about the number 3. The number 4 is left for future work.
+Benchtop Whole-Genome Sequencing for Identification of Nosocomial Outbreaks in Tanzania.
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
+[Download paper here](http://academicpages.github.io/files/Tanzania.pdf)
 
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+Recommended citation: Sonda, T. (2016). "Benchtop Whole-Genome Sequencing for Identification of Nosocomial Outbreaks in Tanzania." <i>Infection Control & Hospital Epidemiology</i>. 37(5).
