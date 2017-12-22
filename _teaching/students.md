@@ -21,11 +21,11 @@ August 2017 - February 2018
 Supervising Christian Fiksdal Brandes on his Masters thesis. He is developing a pipeline for viral phylogeny on meta genome samples. He is working with tha Global Sewage data.
 
 
-Bioinformatic and experimental studies of antimicrobial resistance of Klebsiella pneumonia caused by chromosomal mutations 
+Bioinformatic and experimental studies of antimicrobial resistance of *Klebsiella pneumonia* caused by chromosomal mutations 
 ---
 September 2017 - March 2018
 
-Co-supervising Annette Barbara Walaszek Schow on her Masters thesis. She is making a database of chromosomal mutations in Klebsiella pneumonia, which leads to antibiotic resistance. This she is using to characterice a group af samples, as well as doing a phylogenetic study of them. She will then go on to test the MIC values for the found resistances in the lab.
+Co-supervising Annette Barbara Walaszek Schow on her Masters thesis. She is making a database of chromosomal mutations in *Klebsiella pneumonia*, which leads to antibiotic resistance. This she is using to characterice a group af samples, as well as doing a phylogenetic study of them. She will then go on to test the MIC values for the found resistances in the lab.
 
 Evergreen: a platform for surveillance of bacterial outbreaks
 ---
