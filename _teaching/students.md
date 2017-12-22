@@ -2,7 +2,7 @@
 title: "Supervision of Master Thesis students"
 collection: teaching
 type: "MSc thesis"
-permalink: /_teaching/students
+permalink: /_teaching/students.md
 venue: "Technical University of Denmark, DTU Bioinformatics"
 date: September 2017
 location: "Kongens Lyngby, Denmark"
