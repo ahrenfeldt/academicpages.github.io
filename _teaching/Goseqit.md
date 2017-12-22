@@ -2,7 +2,7 @@
 title: "Workshop on Whole Genome Sequencing and Analysis, GoSeqIt"
 collection: teaching
 type: "Workshop"
-permalink: /_teaching/GoSeqIt
+permalink: /_teaching/Goseqit.md
 venue: "GoSeqIt"
 date: October 2017
 location: "Rungsted, Denmark"
