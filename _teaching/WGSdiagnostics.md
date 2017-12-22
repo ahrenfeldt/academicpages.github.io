@@ -2,7 +2,7 @@
 title: "Whole genome analysis in diagnostic microbiology"
 collection: teaching
 type: "MSc course"
-permalink: /_teaching/WGSdiagnostics
+permalink: /_teaching/WGSdiagnostics.md
 venue: "Technical University of Denmark, DTU Bioinformatics"
 date: February-May 2017
 location: "Kongens Lyngby, Denmark"
