@@ -17,6 +17,10 @@ Education
 
 Work experience
 ======
+* 2016: Visiting Researcher
+  * Center for Food Safety and Applied Nutrition, U.S. Food & Drug Administration
+  * Supervisor: Ruth Timme, PhD
+
 * 2014: Research Assistant
   * Center for Genomic Epidemiology, Technical University of Denmark
   * Supervisor: Professor Ole Lund
@@ -32,12 +36,13 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Phylogeny
+* Programming
+  * Python
+  * Perl
+  * R
+* Genomic Epidemiology
+* Teaching
 
 Publications
 ======
