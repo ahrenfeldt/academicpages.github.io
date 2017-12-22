@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-Johanne Ahrenfeldts professional webside with the sole purpose of getting her a job.
+Soon to be PhD in computational biology, with an interest in molecular evolution, phylogeny and its use in outbreak detection of infectious diseases. During my work and studies I have gained knowledge and experience in bioinformatics, especially within the field of whole genome sequence (WGS) analysis of bacteria and phylogeny.
 
-Here she will put in text to tell about herself
+I am dedicated to working with infectious diseases within in public health, as I feel that this an area were there is a true challenge and where I can make a difference.
