@@ -11,9 +11,11 @@ redirect_from:
 
 Education
 ======
-* B.Sc.Eng in Biotechnology, Technical University of Denmark, 2011
 * M.Sc.Eng in Systems Biology and Bioinformatics, Technical University of Denmark, 2014
 * Ph.D in Bioinformatics, Technical University of Denmark, 2018 (expected)
+* B.Sc.Eng in Biotechnology, Technical University of Denmark, 2011
+
+
 
 Work experience
 ======
