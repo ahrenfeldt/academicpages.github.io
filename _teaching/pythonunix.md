@@ -2,7 +2,7 @@
 title: "Python & Unix for bioinformaticians"
 collection: teaching
 type: "MSc course"
-permalink: /_teaching/pythonunix
+permalink: /_teaching/pythonunix.md
 venue: "Tehnical University of Denmark, DTU Bioinformatics"
 date: Februar-May 2016 and 2017
 location: "Kongens Lyngby, Denmark"
