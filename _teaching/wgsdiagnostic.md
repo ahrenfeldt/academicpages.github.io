@@ -8,9 +8,9 @@ date: February-May 2017
 location: "Kongens Lyngby, Denmark"
 ---
 
-This course is a hands on course in the different available tools for WGS analysis and diagnotics in microbiology. The course uses the online available toos from CGE (http://www.genomicepidemiology.org/) as the basis to teach students about WGS diagnotics.
+This course is a hands on course in the different available tools for WGS analysis and diagnotics in microbiology. The course uses the online available toos from CGE (<http://www.genomicepidemiology.org/>) as the basis to teach students about WGS diagnotics.
 
-http://kurser.dtu.dk/course/36683
+<http://kurser.dtu.dk/course/36683>
 
 ### 2017
 
