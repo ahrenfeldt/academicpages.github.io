@@ -33,4 +33,4 @@ Co-supervising Annette Barbara Walaszek Schow on her Masters thesis. She is maki
 
 Febuary 2017 - June 2017
 
-Co-supervising Judit Szarvas on her Masters thesis. Her goal was to develop a platform for surveillance of bacterial outbreaks, that makes updated phylogenetic trees of all public available data. A beta version of the platform is found here https://cge.cbs.dtu.dk/services/Evergreen/
+Co-supervising Judit Szarvas on her Masters thesis. Her goal was to develop a platform for surveillance of bacterial outbreaks, that makes updated phylogenetic trees of all public available data. A beta version of the platform is found here <https://cge.cbs.dtu.dk/services/Evergreen/>
