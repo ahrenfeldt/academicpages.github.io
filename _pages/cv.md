@@ -68,4 +68,4 @@ Teaching
 Service and leadership
 ======
 * Supervisor for four master thesis students
-* System administrator for the CGE web tools (https://cge.cbs.dtu.dk/services/) (2012-2015)
+* System administrator for the CGE web tools (<https://cge.cbs.dtu.dk/services/>) (2012-2015)
