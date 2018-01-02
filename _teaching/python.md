@@ -9,6 +9,6 @@ location: "Kongens Lyngby, Denmark"
 ---
 This course provides an introduction to elementary Unix and the Python programming language following basic programming principles and good programming practices.
 
-http://kurser.dtu.dk/course/36610
+<http://kurser.dtu.dk/course/36610>
 
 I was a TA in this course for two years
