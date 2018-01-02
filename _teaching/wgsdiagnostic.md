@@ -1,5 +1,5 @@
 ---
-title: "Teaching experience 1"
+title: "Whole genome analysis in diagnostic microbiology"
 collection: teaching
 type: "MSc course"
 permalink: /teaching/wgsdiagnostic
