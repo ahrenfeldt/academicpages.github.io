@@ -1,7 +1,7 @@
 ---
 title: "Bacterial whole genome-based phylogeny: Construction of a new benchmarking dataset and assessment of some existing methods"
 collection: publications
-permalink: /publication/ahrenfeldt17.md
+permalink: /publication/ahrenfeldt17
 excerpt: 'In the present study we describe a new dataset that we have created for the purpose of benchmarking WGS-based methods for epidemiological data, and also present an analysis where we use the data to compare the performance of some current methods for whole genome based phylogeny.'
 date: 2017-01-05
 venue: 'BMC Genomics'
