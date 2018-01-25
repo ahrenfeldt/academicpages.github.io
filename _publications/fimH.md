@@ -6,7 +6,7 @@ excerpt: 'The aim of this study was to construct a valid publicly available meth
 date: 2017-06-07
 venue: 'Journal of Clinical Microbiology'
 paperurl: 'http://jcm.asm.org/content/55/8/2538.full.pdf'
-citation: 'Roer, L. (2009). &quot;Development of a Web Tool for Escherichia coli Subtyping Based on fimH Alleles.&quot; <i> J Clin Microbiol </i>. 55:2538–2543.'
+citation: 'Roer, L. (2017). &quot;Development of a Web Tool for Escherichia coli Subtyping Based on fimH Alleles.&quot; <i> J Clin Microbiol </i>. 55:2538–2543.'
 ---
 The aim of this study was to construct a valid publicly available method
 for in silico fimH subtyping of Escherichia coli particularly suitable for differentiation
