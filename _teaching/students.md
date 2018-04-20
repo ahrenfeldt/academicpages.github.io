@@ -15,13 +15,13 @@ During my PhD I have supervised and co-supervised four Master Thesis students
 
 September 2017 - March 2018
 
-Supervising Madina Waisi on her Masters thesis. She is developing a pipeline for bacterial phylogeny on meta genome samples. She is working with tha Global Sewage data.
+Supervising Madina Waisi on her Masters thesis. She is developing a pipeline for bacterial phylogeny on meta genome samples. She is working with the Global Sewage data.
 
 ### Global Sewage - Viral phylogeny on metagenomic samples
 
 August 2017 - February 2018
 
-Supervising Christian Fiksdal Brandes on his Masters thesis. He is developing a pipeline for viral phylogeny on meta genome samples. He is working with tha Global Sewage data.
+Supervising Christian Fiksdal Brandes on his Masters thesis. He is developing a pipeline for viral phylogeny on meta genome samples. He is working with the Global Sewage data.
 
 ### Bioinformatic and experimental studies of antimicrobial resistance of *Klebsiella pneumonia* caused by chromosomal mutations
 
