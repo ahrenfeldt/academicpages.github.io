@@ -27,7 +27,7 @@ Supervising Christian Fiksdal Brandes on his Masters thesis. He is developing a 
 
 September 2017 - March 2018
 
-Co-supervising Annette Barbara Walaszek Schow on her Masters thesis. She is making a database of chromosomal mutations in *Klebsiella pneumonia*, which leads to antibiotic resistance. This she is using to characterice a group af samples, as well as doing a phylogenetic study of them. She will then go on to test the MIC values for the found resistances in the lab.
+Co-supervising Annette Barbara Walaszek Schow on her Masters thesis. She is making a database of chromosomal mutations in *Klebsiella pneumonia*, which leads to antibiotic resistance. This she is using to characterize a group of samples, as well as doing a phylogenetic study of them. She will then go on to test the MIC values for the found resistances in the lab.
 
 ### Evergreen: a platform for surveillance of bacterial outbreaks
 
