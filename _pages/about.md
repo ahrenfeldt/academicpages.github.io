@@ -1,4 +1,4 @@
----
+u---
 permalink: /
 title: "About me"
 excerpt: "About me"
@@ -10,4 +10,4 @@ redirect_from:
 
 Newly graduated PhD in bioinformatics, with an interest in molecular evolution, phylogeny and its use in outbreak detection of infectious diseases. During my work and studies I have gained knowledge and experience in bioinformatics, especially within the field of whole genome sequence (WGS) analysis of bacteria and phylogeny.
 
-I have dedicated the first part of my career to working with infectious diseases within public health, as I feel that this an area were there is a true challenge and where I can make a difference.
+I currently work as a bioinformatics scientist at ALK, where I have gained new skills such as R (particularly working with tidyverse and ggplot2) and single cell genomics.
