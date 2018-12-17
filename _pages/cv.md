@@ -19,6 +19,9 @@ Education
 
 Work experience
 ======
+* 2018: Bioinformatics Scientist 
+  * ALK-abelló A/S
+
 * 2016: Visiting Researcher
   * Center for Food Safety and Applied Nutrition, U.S. Food & Drug Administration
   * Supervisor: Ruth Timme, PhD
