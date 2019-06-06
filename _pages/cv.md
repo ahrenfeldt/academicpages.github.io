@@ -19,6 +19,9 @@ Education
 
 Work experience
 ======
+* 2019: Post doctoral researcher
+  * Department of Molecular Medicine (MOMA), Aarhus University Hospital
+
 * 2018: Bioinformatics Scientist 
   * ALK-abelló A/S
 
